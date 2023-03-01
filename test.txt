@@ -1,0 +1,6 @@
+Function 0 (??):
+   47: while true do
+L0: JUMPBACK L0
+   49: 
+RETURN R0 0
+
